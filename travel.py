@@ -13,7 +13,13 @@ for i, article in enumerate(data):
     res = requests.get(url,headers = headers)
     soup = BeautifulSoup(res.text, "lxml")
     
-# Getting headings
+    if url.endswith('.pdf'):
+        article["heading"] = ""
+        article["img_url"] = ""
+        article["desc"] = ""
+        continue
+
+    # Getting headings
     heading = ""
     for htag in htags:
         head = soup.find(htag)
@@ -24,17 +30,31 @@ for i, article in enumerate(data):
         head = ""
     article["heading"] = heading
     
-#  Getting image urls   
+    # Getting image urls   
     img_url = ""
     img_tag = soup.find("img")
     
     if not img_tag == None:
-        img_url = img_tag['src']
-        if not img_url.startswith("http"):
-            img_url = url + img_url
+        try:
+            img_url = img_tag['src']
+            if not img_url.startswith("http"):
+                img_url = url + img_url
+        except Exception as e:
+            img_url = ""
+                
     article["img_url"] = img_url
+    
+    # Getting description
+
+    desc = ""
+    para_tag = soup.find("p")
+    if not para_tag == None:
+        desc = para_tag.text 
+        
+    article["desc"] = desc
     
     
     print(f"processed{i}")
 f = open("data.json","w")
-json.dump(data, f)
+json.dump(data, f, ensure_ascii=False)
+f.close()

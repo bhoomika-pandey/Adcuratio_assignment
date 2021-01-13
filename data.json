@@ -1,212 +1,598 @@
 [
   {
-    "url": "https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/",
-    "title": "The neural network of the Stockfish chess engine",
-    "upvote": "87",
-    "heading": "The neural network of the Stockfish chess engine",
-    "img_url": "https://cp4space.hatsya.com/wp-content/uploads/2020/09/cropped-banner-xmas2.png"
+    "url": "https://www.hse.ru/en/news/research/433782660.html",
+    "title": "Workaholism Leads to Mental and Physical Health Problems",
+    "upvote": "180"
   },
   {
-    "url": "https://community.signalusers.org/t/reminder-please-be-nice/21217",
-    "title": "Signal community: Reminder: Please be nice",
-    "upvote": "510",
-    "heading": "Reminder: Please be nice",
-    "img_url": "https://community.signalusers.org/uploads/db3609/original/2X/5/5b20e36bc59ea90e795352536430ee283c27babc.png"
+    "url": "https://tedium.co/2021/01/13/linksys-wrt54g-router-history/",
+    "title": "WRT54G History: The Router That Accidentally Went Open Source",
+    "upvote": "232"
+  },
+  {
+    "url": "https://spectrum.ieee.org/tech-talk/computing/hardware/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency",
+    "title": "Superconducting Microprocessors? Turns Out They're Ultra-Efficient",
+    "upvote": "30"
+  },
+  {
+    "url": "https://beaglev.seeed.cc/",
+    "title": "BeagleV – An affordable RISC-V computer designed to run Linux",
+    "upvote": "334"
+  },
+  {
+    "url": "https://www.nsa.gov/news-features/declassified-documents/ufo/",
+    "title": "NSA UFO Documents Index",
+    "upvote": "47"
+  },
+  {
+    "url": "https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html",
+    "title": "Response to “WireGuard: great protocol, but skip the Mac app”",
+    "upvote": "665"
+  },
+  {
+    "url": "https://www.economist.com/technology-quarterly/2021/01/07/why-lasers-are-so-brilliantly-useful",
+    "title": "Why lasers are so brilliantly useful",
+    "upvote": "46"
+  },
+  {
+    "url": "https://www.notion.so/Head-of-Startup-Experience-c706421a57f44ee3ada2dd478e1f7820",
+    "title": "Daily (YC W16) Is Hiring a Head of Startup Experience",
+    "upvote": ""
+  },
+  {
+    "url": "https://www.anandtech.com/show/16416/qualcomm-to-acquire-nuvia-a-cpu-magnitude-shift",
+    "title": "Qualcomm to Acquire Nuvia: A CPU Magnitude Shift",
+    "upvote": "74"
+  },
+  {
+    "url": "https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/",
+    "title": "The neural network of the Stockfish chess engine",
+    "upvote": "275"
+  },
+  {
+    "url": "https://github.com/ory/hydra/releases/tag/v1.9.0",
+    "title": "Show HN: Open-source Golang OAuth2 provider Ory Hydra 1.9",
+    "upvote": "47"
+  },
+  {
+    "url": "https://simpixelated.com/two-year-work-retrospective",
+    "title": "Two Year Work Retrospective",
+    "upvote": "8"
+  },
+  {
+    "url": "https://www.cnbc.com/2021/01/13/intel-ceo-bob-swan-to-step-down-in-february.html",
+    "title": "Intel CEO Bob Swan to Step Down in Feb, VMware CEO Pat Gelsinger to Replace Him",
+    "upvote": "205"
+  },
+  {
+    "url": "https://timetagger.app/",
+    "title": "Show HN: Open-Source Time Tracker",
+    "upvote": "76"
   },
   {
     "url": "https://www.excamera.com/sphinx/fpga-j1.html",
     "title": "The J1 Forth CPU",
-    "upvote": "44",
-    "heading": "The J1 Forth CPU\u00c2\u00b6",
-    "img_url": "https://www.excamera.com/sphinx/fpga-j1.html_images/timing.jpg"
+    "upvote": "163"
   },
   {
-    "url": "https://blog.usejournal.com/how-i-stole-the-data-in-millions-of-peoples-google-accounts-aa1b72dcc075",
-    "title": "I stole the data in millions of people\u2019s Google accounts",
-    "upvote": "38",
-    "heading": "How I stole the data in millions of people\u2019s Google accounts",
-    "img_url": "https://miro.medium.com/max/600/1*UHuqbnPEL34J0_tvEIblUQ.png"
+    "url": "https://secret.club/2021/01/12/callout.html",
+    "title": "Hiding execution of unsigned code in Windows system threads",
+    "upvote": "29"
   },
   {
-    "url": "https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html",
-    "title": "\u201cWireGuard: great protocol, but skip the Mac app\u201d \u2013 a response",
-    "upvote": "63",
-    "heading": "\"Wireguard [sic]: great protocol, but skip the Mac app\" blog post",
-    "img_url": ""
+    "url": "https://www.iflscience.com/health-and-medicine/man-injected-magic-mushrooms-into-his-veins-and-they-started-to-grow-in-his-blood/",
+    "title": "Magic Mushrooms Injected into Man's Veins Started to Grow in Blood",
+    "upvote": "113"
   },
   {
-    "url": "https://www.justice.gov/opa/pr/visa-and-plaid-abandon-merger-after-antitrust-division-s-suit-block",
-    "title": "Visa and Plaid Abandon Merger After Antitrust Division\u2019s Suit to Block",
-    "upvote": "533",
-    "heading": "Justice News",
-    "img_url": "https://www.justice.gov/opa/pr/visa-and-plaid-abandon-merger-after-antitrust-division-s-suit-block/sites/all/themes/justice/images/us_flag_small.png"
+    "url": "https://perell.com/note/the-paradox-of-abundance/",
+    "title": "The Paradox of Abundance",
+    "upvote": "111"
   },
   {
-    "url": "https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store",
-    "title": "Distributing Mac apps outside the App Store, a quick start guide",
-    "upvote": "168",
-    "heading": "Distributing Mac apps outside the App Store, a quick start guide",
-    "img_url": "https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store/assets/img/2018header_v2.jpg"
+    "url": "https://news.ycombinator.com/item?id=25760750",
+    "title": "Ask HN: Do we need a Google Customers Union? Could it work?",
+    "upvote": "225"
   },
   {
-    "url": "https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/",
-    "title": "If it will matter after today, don't talk about it in a chat room",
-    "upvote": "663",
-    "heading": "If it will matter after today, stop talking about it in a chat room",
-    "img_url": "https://pixel.wp.com/b.gif?v=noscript"
+    "url": "https://community.signalusers.org/t/reminder-please-be-nice/21217",
+    "title": "Signal community: Reminder: Please be nice",
+    "upvote": "928"
   },
   {
-    "url": "https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/",
-    "title": "What Is Social Cooling?",
-    "upvote": "167",
-    "heading": "Reason and Meaning",
-    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Stylized_eye.svg/450px-Stylized_eye.svg.png"
-  },
-  {
-    "url": "https://people.csail.mit.edu/tzumao/diffvg/",
-    "title": "Differentiable Rasterizer for Vector Graphics",
-    "upvote": "27",
-    "heading": "",
-    "img_url": "https://people.csail.mit.edu/tzumao/diffvg/teaser.jpg"
-  },
-  {
-    "url": "https://www.anandtech.com/show/16408/samsung-confirms-amd-rdna-gpu-in-next-exynos-flagship",
-    "title": "Samsung Confirms AMD RDNA GPU in Next Exynos Flagship",
-    "upvote": "143",
-    "heading": "Samsung Confirms AMD RDNA GPU In Next Exynos Flagship",
-    "img_url": "https://sb.scorecardresearch.com/p?c1=2&c2=6035753&cv=2.0&cj=1"
-  },
-  {
-    "url": "https://raycast.com/jobs",
-    "title": "Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC \u00b1 3h)",
-    "upvote": "",
-    "heading": "Jobs",
-    "img_url": "https://raycast.com/jobs/assets/static/gsuite.584fd04.f79ffaf1c905ffc17dd1b7cbf266523a.png"
-  },
-  {
-    "url": "https://www.nytimes.com/2021/01/11/science/brown-tree-snake-climbing.html",
-    "title": "Snakes Found a New Way to Slither",
-    "upvote": "46",
-    "heading": "These Snakes Found a New Way to Slither",
-    "img_url": "https://static01.nyt.com/images/2021/01/11/science/11TB-LASSO1/11TB-LASSO1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
-  },
-  {
-    "url": "https://www.tvo.org/article/the-story-of-thunder-bays-socialist-finnish-restaurant",
-    "title": "The story of Thunder Bay\u2019s socialist Finnish restaurant (2018)",
-    "upvote": "12",
-    "heading": "Secondary Menu",
-    "img_url": "https://www.facebook.com/tr?id=756679924783003&ev=PageView&noscript=1"
-  },
-  {
-    "url": "https://a16z.com/2012/01/19/management-debt/",
-    "title": "Management Debt (2012)",
-    "upvote": "48",
-    "heading": "Management Debt",
-    "img_url": "https://7a9z42689xx35658r1hutm8n-wpengine.netdna-ssl.com/wp-content/themes/a16z-2015/client/images/home/logo-dark-horizontal.svg"
-  },
-  {
-    "url": "https://lwn.net/SubscriberLink/840632/5120a4e4b44f7d2a/",
-    "title": "Some Unlikely 2021 Predictions",
-    "upvote": "20",
-    "heading": "Some unlikely 2021 predictions",
-    "img_url": "https://static.lwn.net/images/logo/barepenguin-70.png"
-  },
-  {
-    "url": "https://github.com/juicedata/juicefs",
-    "title": "A distributed Posix file system built on top of Redis and S3",
-    "upvote": "140",
-    "heading": "juicedata/juicefs",
-    "img_url": "https://github.githubassets.com/images/search-key-slash.svg"
-  },
-  {
-    "url": "https://aquadzn.github.io/learn-x-by-doing-y/",
-    "title": "Learn X by Doing Y \u2013 A project-based learning search engine",
-    "upvote": "259",
-    "heading": "What                    do you want to                    learn today                    ?",
-    "img_url": ""
-  },
-  {
-    "url": "https://blog.brownplt.org/2021/01/10/property-based-testing.html",
-    "title": "Teaching and Assessing Property-Based Testing",
-    "upvote": "4",
-    "heading": "The Brown PLT Blog",
-    "img_url": "https://blog.brownplt.org/img/brownplt.png"
-  },
-  {
-    "url": "https://michaelnaimark.medium.com/a-cheap-simple-hack-for-improving-your-online-classtime-experiences-802071cd34c1",
-    "title": "Cheap and simple way to mount a smartphone directly above a laptop display",
-    "upvote": "84",
-    "heading": "A Cheap Simple Hack for Improving Your Online Classtime Experiences",
-    "img_url": "https://miro.medium.com/fit/c/56/56/1*hxXPY6JIq1UxNGUkF96bqA.jpeg"
-  },
-  {
-    "url": "http://solarleaks.net/",
-    "title": "Solarwind, Fireeye, Microsoft and Cisco leaks are offered for sale",
-    "upvote": "240",
-    "heading": "",
-    "img_url": ""
-  },
-  {
-    "url": "https://beakerbrowser.com/",
-    "title": "Beaker Browser \u2013 experimental peer to peer web browser",
-    "upvote": "209",
-    "heading": "Beaker Browser",
-    "img_url": "https://beakerbrowser.com//img/logo/logo.png"
+    "url": "https://mfkl.github.io/2021/01/13/half-a-million-downloads.html",
+    "title": "Milestone: Half a million downloads for VideoLAN packages in the .NET ecosystem",
+    "upvote": "84"
   },
   {
     "url": "https://lwn.net/SubscriberLink/842319/8adb13e08d0302bd/",
     "title": "Debian discusses vendoring again",
-    "upvote": "62",
-    "heading": "Debian discusses vendoring\u2014again",
-    "img_url": "https://static.lwn.net/images/logo/barepenguin-70.png"
+    "upvote": "158"
+  },
+  {
+    "url": "https://www.cnbc.com/2021/01/13/dropbox-to-cut-11percent-of-its-global-workforce.html",
+    "title": "Dropbox to cut 11% of its global workforce",
+    "upvote": "173"
+  },
+  {
+    "url": "https://blog.dropbox.com/topics/company/-a-message-from-our-ceo",
+    "title": "Dropbox – A Message from Our CEO",
+    "upvote": "92"
+  },
+  {
+    "url": "https://venturebeat.com/2021/01/13/no-code-development-platform-webflow-raises-140-million-at-2-1-billion-valuation/",
+    "title": "No-code platform Webflow (YC) raises $140M at a $2.1B valuation",
+    "upvote": "21"
+  },
+  {
+    "url": "https://people.csail.mit.edu/tzumao/diffvg/",
+    "title": "Differentiable Rasterizer for Vector Graphics",
+    "upvote": "98"
+  },
+  {
+    "url": "https://www.nytimes.com/2021/01/11/health/colonoscopy-health-home-testing.html",
+    "title": "A Colonoscopy Alternative Comes Home",
+    "upvote": "81"
+  },
+  {
+    "url": "https://idownvotedbecau.se/",
+    "title": "I Downvoted Because",
+    "upvote": "106"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=25760960",
+    "title": "Ask HN: How do we build the new remote education system",
+    "upvote": "98"
+  },
+  {
+    "url": "https://www.justice.gov/opa/pr/visa-and-plaid-abandon-merger-after-antitrust-division-s-suit-block",
+    "title": "Visa and Plaid Abandon Merger After Antitrust Division’s Suit to Block",
+    "upvote": "579"
+  },
+  {
+    "url": "https://patrobinson.github.io/2016/11/07/thou-shalt-not-run-a-database-inside-a-container/",
+    "title": "Thou shalt not run a database inside a container",
+    "upvote": "13"
+  },
+  {
+    "url": "https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/",
+    "title": "If it will matter after today, don't talk about it in a chat room",
+    "upvote": "721"
+  },
+  {
+    "url": "https://www.nytimes.com/2021/01/11/science/brown-tree-snake-climbing.html",
+    "title": "Snakes Found a New Way to Slither",
+    "upvote": "112"
+  },
+  {
+    "url": "https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store",
+    "title": "Distributing Mac apps outside the App Store, a quick start guide",
+    "upvote": "277"
+  },
+  {
+    "url": "https://blog.brownplt.org/2021/01/10/property-based-testing.html",
+    "title": "Teaching and Assessing Property-Based Testing",
+    "upvote": "33"
+  },
+  {
+    "url": "https://a16z.com/2012/01/19/management-debt/",
+    "title": "Management Debt (2012)",
+    "upvote": "83"
+  },
+  {
+    "url": "https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/",
+    "title": "What Is Social Cooling?",
+    "upvote": "305"
+  },
+  {
+    "url": "https://gustedt.wordpress.com/2017/08/08/cross-language-interfaces-between-c-and-c/",
+    "title": "Cross Language interfaces between C and C++ (2017)",
+    "upvote": "27"
+  },
+  {
+    "url": "https://github.com/ggerganov/ggwave/tree/master/examples/waver",
+    "title": "Show HN: Waver – Messaging Through Sound",
+    "upvote": "30"
   },
   {
     "url": "https://threedots.ovh/blog/2021/01/drawbridge-what-sql-server-on-linux-is-built-on/",
     "title": "Drawbridge: What SQL Server on Linux is built on",
-    "upvote": "30",
-    "heading": "Drawbridge: what SQL Server on Linux is built on",
-    "img_url": ""
+    "upvote": "55"
   },
   {
-    "url": "https://opensource.apple.com/source/clang/clang-23/clang/tools/clang/www/comparison.html",
-    "title": "Why Apple Chose Clang (2008)",
-    "upvote": "136",
-    "heading": "Clang vs Other Open Source Compilers",
-    "img_url": ""
+    "url": "https://lwn.net/SubscriberLink/840632/5120a4e4b44f7d2a/",
+    "title": "Some Unlikely 2021 Predictions",
+    "upvote": "72"
   },
   {
-    "url": "https://krebsonsecurity.com/2021/01/solarwinds-what-hit-us-could-hit-others/",
-    "title": "SolarWinds: What Hit Us Could Hit Others",
-    "upvote": "174",
-    "heading": "Krebs on Security",
-    "img_url": "https://krebsonsecurity.com/wp-content/themes/krebsads/krebsads/images/icon-rss.png"
+    "url": "https://www.bbc.com/news/technology-55639920",
+    "title": "TikTok: All under-16s' accounts made private",
+    "upvote": "163"
+  },
+  { "url": "https://2020game.io/", "title": "2020 Game", "upvote": "196" },
+  {
+    "url": "https://en.wikipedia.org/wiki/Lenin_was_a_mushroom",
+    "title": "Lenin Was a Mushroom",
+    "upvote": "6"
   },
   {
-    "url": "https://www.theguardian.com/environment/2021/jan/13/top-scientists-warn-of-ghastly-future-of-mass-extinction-and-climate-disruption-aoe",
-    "title": "Top scientists warn of 'ghastly future of mass extinction' and climate disruptio",
-    "upvote": "29",
-    "heading": "Top scientists warn of 'ghastly future of mass extinction' and climate disruption",
-    "img_url": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=Environment%2CGreenhouse+gas+emissions%2CClimate+change%2CScience+policy%2CPolitics%2CUK+news%2CScience%2CWorld+news%2CTrees+and+forests%2CDeforestation%2CWildlife"
+    "url": "https://www.nytimes.com/2021/01/13/business/onlyfans-pandemic-users.html",
+    "title": "Jobless, Selling Nudes Online and Still Struggling",
+    "upvote": "25"
   },
   {
-    "url": "https://2020game.io/",
-    "title": "2020 Game",
-    "upvote": "4",
-    "heading": "",
-    "img_url": "https://mc.yandex.ru/watch/70640851"
+    "url": "https://aquadzn.github.io/learn-x-by-doing-y/",
+    "title": "Learn X by Doing Y – A project-based learning search engine",
+    "upvote": "321"
+  },
+  {
+    "url": "https://www.anandtech.com/show/16408/samsung-confirms-amd-rdna-gpu-in-next-exynos-flagship",
+    "title": "Samsung Confirms AMD RDNA GPU in Next Exynos Flagship",
+    "upvote": "177"
   },
   {
     "url": "https://www.bbc.co.uk/news/technology-55634388",
     "title": "Huawei patent mentions use of Uighur-spotting tech",
-    "upvote": "206",
-    "heading": "Huawei patent mentions use of Uighur-spotting tech",
-    "img_url": "https://c.files.bbci.co.uk/155AC/production/_116486478_huawei.jpg"
+    "upvote": "258"
   },
   {
-    "url": "https://2020.stateofjs.com/en-us/technologies/front-end-frameworks/#front_end_frameworks_experience_ranking",
-    "title": "Svelte come on top for satisfaction and interest:3",
-    "upvote": "15",
-    "heading": "State of JS 2020",
-    "img_url": ""
+    "url": "https://michaelnaimark.medium.com/a-cheap-simple-hack-for-improving-your-online-classtime-experiences-802071cd34c1",
+    "title": "Cheap and simple way to mount a smartphone directly above a laptop display",
+    "upvote": "150"
+  },
+  {
+    "url": "https://asia.nikkei.com/Business/Automobiles/Apple-Car-expected-to-shake-up-auto-industry-in-Asia-and-world",
+    "title": "Apple Car expected to shake up auto industry in Asia and world",
+    "upvote": "28"
+  },
+  {
+    "url": "https://github.com/juicedata/juicefs",
+    "title": "A distributed Posix file system built on top of Redis and S3",
+    "upvote": "199"
+  },
+  {
+    "url": "https://github.com/nineties/planckforth",
+    "title": "Show HN: PlanckForth: Bootstrapping an Interpreter from Handwritten 1KB Binary",
+    "upvote": "5"
+  },
+  {
+    "url": "https://www.tvo.org/article/the-story-of-thunder-bays-socialist-finnish-restaurant",
+    "title": "The story of Thunder Bay’s socialist Finnish restaurant (2018)",
+    "upvote": "34"
+  },
+  {
+    "url": "https://www.bbc.com/news/technology-55643774",
+    "title": "YouTube suspends Donald Trump's channel",
+    "upvote": "96"
+  },
+  {
+    "url": "https://beakerbrowser.com/",
+    "title": "Beaker Browser – experimental peer to peer web browser",
+    "upvote": "238"
+  },
+  {
+    "url": "http://solarleaks.net/",
+    "title": "Solarwind, Fireeye, Microsoft and Cisco leaks are offered for sale",
+    "upvote": "272"
+  },
+  {
+    "url": "https://community.teamspeak.com/t/teamspeak-5-beta-bug-report-bbcode-not-working-channel-commander-not-shown/14670/4",
+    "title": "Teamspeak 5 to be based on the Matrix protocol",
+    "upvote": "533"
+  },
+  {
+    "url": "https://oyd.org.tr/en/articles/signal/",
+    "title": "Authoritarianism Through Coding: Signal",
+    "upvote": "15"
+  },
+  {
+    "url": "https://hakibenita.com/sql-anomaly-detection",
+    "title": "Simple Anomaly Detection Using Plain SQL",
+    "upvote": "504"
+  },
+  {
+    "url": "https://www.wsj.com/articles/intel-ceo-bob-swan-steps-down-11610548665",
+    "title": "Intel CEO Bob Swan Steps Down",
+    "upvote": "10"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2021/jan/13/google-admits-to-running-experiments-which-remove-some-media-sites-from-its-search-results",
+    "title": "Google admits to running experiments which remove some media sites from results",
+    "upvote": "34"
+  },
+  {
+    "url": "http://cs.brown.edu/~sk/Publications/Papers/Published/tpk-crowdsource-lang-design/paper.pdf",
+    "title": "Can We Crowdsource Language Design? [pdf]",
+    "upvote": "10"
+  },
+  {
+    "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2638.pdf",
+    "title": "Proposal for C23: Improve type generic programming [pdf]",
+    "upvote": "41"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=25758663",
+    "title": "Ask HN: What are the expectations of a principal engineer in your company?",
+    "upvote": "90"
+  },
+  {
+    "url": "https://plaintextaccounting.org/",
+    "title": "Plain Text Accounting",
+    "upvote": "449"
+  },
+  {
+    "url": "https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs",
+    "title": "Using GPT-3 for plain language incident root cause from logs",
+    "upvote": "99"
+  },
+  {
+    "url": "https://www.wired.com/story/parler-bans-new-chapter-free-speech-wars/",
+    "title": "The Parler Bans Open a New Front in the 'Free Speech' Wars",
+    "upvote": "22"
+  },
+  {
+    "url": "https://gourav.io/blog/first-donation-on-open-source-side-project",
+    "title": "I received my first donation on my open-source side project",
+    "upvote": "392"
+  },
+  {
+    "url": "https://opensource.apple.com/source/clang/clang-23/clang/tools/clang/www/comparison.html",
+    "title": "Why Apple Chose Clang (2008)",
+    "upvote": "155"
+  },
+  {
+    "url": "https://www.businessinsider.com/facebook-trump-ban-staff-company-branded-clothing-safety-concerns-2021-1",
+    "title": "Facebook to staff: Avoid company-branded clothing for own safety",
+    "upvote": "292"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/2021/jan/13/top-scientists-warn-of-ghastly-future-of-mass-extinction-and-climate-disruption-aoe",
+    "title": "Top scientists warn of 'ghastly future of mass extinction' and climate disruptio",
+    "upvote": "73"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=25764142",
+    "title": "Ask HN: How do we know Signal or Telegram don't store our data on their servers?",
+    "upvote": "38"
+  },
+  {
+    "url": "https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/",
+    "title": "CIA Releases UFO Documents",
+    "upvote": "182"
+  },
+  {
+    "url": "https://anonymousdata.medium.com/violent-hashtag-frequencies-in-parler-eddab2871b66",
+    "title": "I ran a crawler to collect posts and comments on Parler",
+    "upvote": "75"
+  },
+  {
+    "url": "https://almalinux.org/",
+    "title": "AlmaLinux an open-source RHEL fork",
+    "upvote": "72"
+  },
+  {
+    "url": "https://github.com/amplication/amplication",
+    "title": "Show HN: Amplication – Instantly Generate Node.js Apps with GraphQL and REST API",
+    "upvote": "261"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2021/01/seeed-and-beagleboard-team-up-to-provide-a-new-risc-v-based-linux-pc/",
+    "title": "Seeed launches BeagleV, a $150 RISC-V computer designed to run Linux",
+    "upvote": "14"
+  },
+  {
+    "url": "https://www.zdnet.com/article/this-browser-extension-is-the-ultimate-productivity-hack/",
+    "title": "Ninja Cookie: This browser extension removes cookie banners by rejecting cookies",
+    "upvote": "4"
+  },
+  {
+    "url": "https://www.atlasobscura.com/articles/how-many-kinds-bananas-are-there",
+    "title": "India’s “plantain man” has traveled widely to collect unusual banana varieties",
+    "upvote": "217"
+  },
+  {
+    "url": "https://news.airbnb.com/airbnb-to-block-and-cancel-d-c-reservations-during-inauguration/",
+    "title": "Airbnb to Block and Cancel D.C. Reservations During Inauguration",
+    "upvote": "126"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=25762089",
+    "title": "Ask HN: PWA Push Notifications for iOS?",
+    "upvote": "5"
+  },
+  {
+    "url": "https://greatexpectations.io/",
+    "title": "Great Expectations: data testing, documentation, and profiling",
+    "upvote": "29"
+  },
+  {
+    "url": "https://www.reuters.com/article/us-health-coronavirus-airlines/u-s-to-require-negative-covid-19-tests-for-international-air-passengers-sources-idUSKBN29H2KD",
+    "title": "U.S. to require negative Covid-19 tests for international air passengers",
+    "upvote": "373"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2021/01/solarwinds-what-hit-us-could-hit-others/",
+    "title": "SolarWinds: What Hit Us Could Hit Others",
+    "upvote": "190"
+  },
+  {
+    "url": "https://objective-see.com/products/lulu.html",
+    "title": "Lulu – Mac open-source firewall that aims to block unknown outgoing connections",
+    "upvote": "358"
+  },
+  {
+    "url": "https://www.vantage.sh/",
+    "title": "Show HN: Vantage – An alternative AWS console focused on developer experience",
+    "upvote": "213"
+  },
+  {
+    "url": "https://giuliomagnifico.medium.com/double-setup-for-encrypted-email-on-ios-macos-via-s-mime-and-pgp-bdd724c11d7b",
+    "title": "Double setup for encrypted email on iOS/macOS: via S/MIME and PGP",
+    "upvote": "13"
+  },
+  {
+    "url": "https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/",
+    "title": "Stealing Your Private YouTube Videos, One Frame at a Time",
+    "upvote": "1225"
+  },
+  {
+    "url": "https://www.nasdaq.com/articles/pirated-academic-database-sci-hub-is-now-on-the-uncensorable-web-2021-01-11",
+    "title": "Sci-Hub Is Now on the ‘Uncensorable Web’",
+    "upvote": "827"
+  },
+  {
+    "url": "https://electronupdate.blogspot.com/2021/01/amazon-echo-flex-microphone-mute-real.html",
+    "title": "Amazon Echo Flex: Microphone mute button appears to be real and functional",
+    "upvote": "430"
+  },
+  {
+    "url": "https://fortelabs.co/blog/the-rise-of-the-full-stack-freelancer/",
+    "title": "The Rise of the Full-Stack Freelancer",
+    "upvote": "34"
+  },
+  {
+    "url": "https://github.com/jukefoxer/Signal-Android/tree/feature/wa-db-import",
+    "title": "Signal Fork with WhatsApp Migration",
+    "upvote": "285"
+  },
+  {
+    "url": "https://publicdomainreview.org/collection/the-geometric-landscapes-of-lorenz-stoer-1567",
+    "title": "The Geometric Landscapes of Lorenz Stoer (1567)",
+    "upvote": "32"
+  },
+  {
+    "url": "https://www.wired.co.uk/article/wikipedia-spanish-fork",
+    "title": "Wikipedia doesn't have ads thanks to a Spanish fork",
+    "upvote": "4"
+  },
+  {
+    "url": "https://www.ft.com/content/ee1b716d-4ed2-4b26-8da1-40c98db7b9b6",
+    "title": "WhatsApp fights back as users flee to Signal and Telegram",
+    "upvote": "36"
+  },
+  {
+    "url": "https://suckless.org/philosophy/",
+    "title": "Software That Sucks Less",
+    "upvote": "189"
+  },
+  {
+    "url": "https://github.com/theseus-os/Theseus",
+    "title": "Theseus: A modern experimental OS written from scratch in Rust",
+    "upvote": "374"
+  },
+  {
+    "url": "https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/",
+    "title": "How the Canadian Tech Scene Encourages Finite Gameplay",
+    "upvote": "148"
+  },
+  {
+    "url": "https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic",
+    "title": "How Silicon Valley destroyed Parler",
+    "upvote": "1025"
+  },
+  {
+    "url": "https://techcrunch.com/2021/01/13/webflow-raises-140m-pushing-its-valuation-to-2-1-billion/",
+    "title": "Webflow raises $140M, pushing its valuation to $2.1B",
+    "upvote": "6"
+  },
+  {
+    "url": "https://blog.golang.org/generics-proposal",
+    "title": "A Proposal for Adding Generics to Go",
+    "upvote": "219"
+  },
+  {
+    "url": "https://github.com/marcosnils/orange-juicer/blob/main/README.md#motivation",
+    "title": "Show HN: Chrome extension to collapse and expand HN parent comments threads",
+    "upvote": "44"
+  },
+  {
+    "url": "https://twitter.com/SvelteSociety/status/1349248808585056257",
+    "title": "Svelte took #1 spot in State of JavaScript 2020 survey",
+    "upvote": "13"
+  },
+  {
+    "url": "https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html",
+    "title": "GNOME has no thumbnails in the file picker and my toilets are blocked",
+    "upvote": "1491"
+  },
+  {
+    "url": "https://www.rolls-royce.com/sustainability/ethics-and-compliance/the-aletheia-framework.aspx",
+    "title": "Rolls-Royce releases it's AI Ethics Framework Aletheia",
+    "upvote": "3"
+  },
+  {
+    "url": "https://threedots.ovh/blog/2021/01/huawei-exagear-x86_64-apps-on-arm64/",
+    "title": "Huawei ExaGear: x86_64 apps on Arm 64-bit Linux systems",
+    "upvote": "140"
+  },
+  {
+    "url": "https://twitter.com/chandrarsrikant/status/1349181160107110401",
+    "title": "Worried about Signal, WhatsApp is taking out full page ads in Indian Newspapers",
+    "upvote": "51"
+  },
+  {
+    "url": "https://mwhittaker.github.io/publications/compartmentalized_paxos.pdf",
+    "title": "Scaling Replicated State Machines with Compartmentalization [pdf]",
+    "upvote": "27"
+  },
+  {
+    "url": "https://blog.mozilla.org/attack-and-defense/2021/01/11/leaking-silhouettes-of-cross-origin-images/",
+    "title": "Leaking silhouettes of cross-origin images",
+    "upvote": "193"
+  },
+  {
+    "url": "https://mailchi.mp/ubnt/account-notification?e=30527b2904",
+    "title": "Ubiquiti Networks Breach",
+    "upvote": "640"
+  },
+  {
+    "url": "https://www.dropbox.com/s/ojb9zaplszjcp63/FULL%20THROTTLE%20-for%20all.pdf?dl=0",
+    "title": "Full Throttle – fan film script by Duncan Jones [pdf]",
+    "upvote": "96"
+  },
+  {
+    "url": "https://users.ece.cmu.edu/~koopman/forth/hopl.html",
+    "title": "A Brief Introduction to Forth (1993)",
+    "upvote": "61"
+  },
+  {
+    "url": "https://www.quantamagazine.org/frank-wilczek-cracked-open-the-cosmos-20210112/",
+    "title": "Frank Wilczek - A Prodigy Who Cracked Open the Cosmos",
+    "upvote": "24"
+  },
+  {
+    "url": "https://www.cosmicjs.com/blog/introducing-merge-requests",
+    "title": "Show HN: Cosmic Merge Requests – Git-like workflows for CMS content",
+    "upvote": "31"
+  },
+  {
+    "url": "https://smalltalkzoo.thechm.org/",
+    "title": "The Smalltalk Zoo",
+    "upvote": "75"
+  },
+  {
+    "url": "https://netzpolitik.org/2021/wolf-culture-how-huawei-controls-its-employees-in-europe/",
+    "title": "How Huawei controls its employees in Europe",
+    "upvote": "153"
+  },
+  {
+    "url": "http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html",
+    "title": "Done, and Gets Things Smart (2008)",
+    "upvote": "79"
+  },
+  {
+    "url": "https://www.smithsonianmag.com/history/inventing-alphabet-180976520/",
+    "title": "Who Invented the Alphabet?",
+    "upvote": "82"
+  },
+  {
+    "url": "https://www.inverse.com/science/tardigrades-may-have-taken-over-the-moon",
+    "title": "Tardigrades spilled all over the Moon in 2020",
+    "upvote": "125"
+  },
+  {
+    "url": "https://blog.knightsofthelambdacalcul.us/posts/2020-01-28-attempting-and-failing-to-escape-google/",
+    "title": "Attempting (and Failing) to Escape Google (2020)",
+    "upvote": "6"
   }
 ]
